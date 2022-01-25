@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Aqui se ponen los los nombres de los arquivos que quiero que no se muestre en mi gitHub
